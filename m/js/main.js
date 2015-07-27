@@ -4,7 +4,9 @@ var cases_data = [
 		article:'<p>Land Rover China was building their manufacturing chain in China. In MobiApps, we cooperated with Shanghai team and developed the sales channel system for customers and dealers. With our interaction model, service agents and car owners could communicate through instant messaging and managing service booking in hand.</p><p>The clever of the model solved the difficulty of integration of multiple dealer\'s management system. It also improved Land Rover China\'s control on first-hand saleforce and customer feedback.</p>',
 		bg_url:['../images/landrover1.jpg','../images/landrover2.jpg','../images/landrover3.jpg','../images/landrover4.jpg','../images/landrover5.jpg','../images/landrover6.jpg'],
 		img_id:'bg_landrover',
-		canvas_id:'canvas_landrover'
+		canvas_id:'canvas_landrover',
+		base_color:'#d9dade',
+		text_color:'#13636b'
 	},
 {
 		title:'Qute',
@@ -22,8 +24,8 @@ var cases_data = [
 		bg_url:['../images/s/gamerchat1.jpg','../images/s/gamerchat2.jpg','../images/s/gamerchat3.jpg','../images/s/gamerchat4.jpg','../images/s/gamerchat5.jpg'],
 		img_id:'bg_gamerchat',
 		canvas_id:'canvas_gamerchat',
-		base_color:'#b8b0cd',
-		text_color:'#05115a'
+		base_color:'#d9dade',
+		text_color:'#13636b'
 	},
 	{
 			title:'Touchbook',
