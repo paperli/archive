@@ -134,13 +134,15 @@ function stackBlurCanvasRGBA( id, top_x, top_y, width, height, radius )
 			netscape.security.PrivilegeManager.enablePrivilege("UniversalBrowserRead");
 			imageData = context.getImageData( top_x, top_y, width, height );
 		} catch(e) {
-			alert("Cannot access local image");
+			// TOFIX: Always revoke the alert at the first time launching
+			//alert("Cannot access local image");
 			throw new Error("unable to access local image data: " + e);
 			return;
 		}
 	  }
 	} catch(e) {
-	  alert("Cannot access image");
+	  // TOFIX: Always revoke the alert at the first time launching
+	  //alert("Cannot access image");
 	  throw new Error("unable to access image data: " + e);
 	}
 			
