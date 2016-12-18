@@ -1,5 +1,12 @@
 var cases_data = [
 {
+		title:'Stueck - GIF camera',
+		article:'<p><a href=\'https://itunes.apple.com/tw/app/stueck-gif-camera/id1120576038?l=zh&mt=8\' target=\'_blank\'>@App Store</a></p><p>We all love animated GIF! Stueck is easy-to-use GIF camera app. With Stueck you can create GIF frame-by-frame. It might be the simplest GIF creator. You just take pictures, aka. frames, and then set up speed, more turtle or more rabbit. That\'s it!</p>',
+		bg_url:['images/stueck1.jpg','images/stueck2.jpg'],
+		img_id:'bg_stueck',
+		canvas_id:'canvas_stueck'
+	},
+{
 		title:'Land Rover China',
 		article:'<p>Land Rover China was building their manufacturing chain in China. In MobiApps, we cooperated with Shanghai team and developed the sales channel system for customers and dealers. With our interaction model, service agents and car owners could communicate through instant messaging and managing service booking in hand.</p><p>The clever of the model solved the difficulty of integration of multiple dealer\'s management system. It also improved Land Rover China\'s control on first-hand saleforce and customer feedback.</p>',
 		bg_url:['images/landrover1.jpg','images/landrover2.jpg','images/landrover3.jpg','images/landrover4.jpg','images/landrover5.jpg','images/landrover6.jpg'],
