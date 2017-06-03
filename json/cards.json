@@ -1,0 +1,66 @@
+{
+    "pages": 473,
+    "page": 2,
+    "data": [
+        {
+            "id": "wkOGpjJpYbLK",
+            "privacy": "listed",
+            "word": "advice",
+            "defs": [
+                {
+                    "part_of_speech": "n",
+                    "explanation": "勸告，忠告"
+                }
+            ],
+            "author": {
+                "id": "0A6GnoD02a9w",
+                "avatar_url": "http://s3-ap-northeast-1.amazonaws.com/diing.franky-backend/profiles/avatars/2/small/photo.jpg?1476440133",
+                "display_name": "Woca"
+            },
+            "image_url": "http://s3-ap-northeast-1.amazonaws.com/diing.franky-backend/images/images/8/large/advice_1.jpg?1476380308",
+            "note": "He gave an advice to his brother about dealing with their father.\n他給他弟弟一個如何跟爸爸應對的建議。",
+            "created_at": "2016-08-30T08:54:16.000Z",
+            "updated_at": "2016-10-13T17:44:11.000Z"
+        },
+        {
+            "id": "PmXgVe70GQ3B",
+            "privacy": "listed",
+            "word": "affection",
+            "defs": [
+                {
+                    "part_of_speech": "n",
+                    "explanation": "愛；影響"
+                }
+            ],
+            "author": {
+                "id": "0A6GnoD02a9w",
+                "avatar_url": "http://s3-ap-northeast-1.amazonaws.com/diing.franky-backend/profiles/avatars/2/small/photo.jpg?1476440133",
+                "display_name": "Woca"
+            },
+            "image_url": "http://s3-ap-northeast-1.amazonaws.com/diing.franky-backend/images/images/14/large/affection_1.jpg?1476380871",
+            "note": "Finally, they showed affection for each other.\n他們最終互相表示愛意。",
+            "created_at": "2016-08-31T03:07:35.000Z",
+            "updated_at": "2016-10-13T17:51:09.000Z"
+        },
+        {
+            "id": "oa8Plx3VeJMg",
+            "privacy": "listed",
+            "word": "amazingly",
+            "defs": [
+                {
+                    "part_of_speech": "adv",
+                    "explanation": "驚奇地"
+                }
+            ],
+            "author": {
+                "id": "0A6GnoD02a9w",
+                "avatar_url": "http://s3-ap-northeast-1.amazonaws.com/diing.franky-backend/profiles/avatars/2/small/photo.jpg?1476440133",
+                "display_name": "Woca"
+            },
+            "image_url": "http://s3-ap-northeast-1.amazonaws.com/diing.franky-backend/images/images/16/large/amazingly_1.jpg?1476381424",
+            "note": "The stars in the night sky are amazingly beautiful.\n在夜空的星星驚奇地美麗。",
+            "created_at": "2016-08-31T03:20:15.000Z",
+            "updated_at": "2016-10-13T17:58:31.000Z"
+        }
+    ]
+}
